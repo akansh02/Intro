@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Akansh Sharma
 
-![](https://komarev.com/ghpvc/?username=akansh02&color=green)
+<!---![](https://komarev.com/ghpvc/?username=akansh02&color=green)
 
 - 👀 I’m interested in **Machine Learning Algorithms**
 - 🌱 I’m currently learning **Advance data analytics and Machine Learning**
