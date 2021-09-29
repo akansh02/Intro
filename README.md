@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=akansh02&color=green)
 
 - 👋 Hi, I’m @akansh02
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Machine Learning Algorithms
 - 🌱 I’m currently learning Applied Artificial Intelligence and Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me akansh.ds@gmail.com
 
 <!---
