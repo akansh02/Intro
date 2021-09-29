@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=https://github.com/akansh02color=green)
+
 - 👋 Hi, I’m @akansh02
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Applied Artificial Intelligence and Machine Learning
