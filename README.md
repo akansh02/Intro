@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=akansh02color=green)
+![](https://komarev.com/ghpvc/?username=akansh02&color=green)
 
 - 👋 Hi, I’m @akansh02
 - 👀 I’m interested in Data Science 
